@@ -1,5 +1,5 @@
 # ♛✭ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝘾𝙍𝘼𝘾𝙆 ✭♛
-<a href="https://github.com/Dapunta/elite"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Dapunta/elite.png" width="460px"></a>
+
 ## ✯⇨𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨⇦✯
 [✯] Crack 4 Methode  
 [✯] Login Token  
@@ -15,7 +15,7 @@ $ pkg install git
 $ pip2 install bs4  
 $ pip2 install requests  
 $ pip2 install mechanize  
-$ git clone https://github.com/Dapunta/elite
+$ git clone https://github.com/abuhurairarafa/elite
 ## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
 $ cd elite  
 $ python2 elite
